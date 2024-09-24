@@ -1,5 +1,5 @@
-<H3>NAME : DEEPIKA S</H3> 
-<H3>REGISTER NO: 212222230028</H3> 
+<H3>NAME : hanumanth rao</H3> 
+<H3>REGISTER NO: 212222240016</H3> 
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3> 
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
@@ -22,8 +22,8 @@ Step 9: Find the most likely sequence of hidden states by selecting the hidden s
 
 ## Program:
 ```
-Developed by: DEEPIKA S
-Register Number: 212222230028
+Developed by: hanumanth rao
+Register Number: 212222240016
 ```
 ```
 import numpy as np
